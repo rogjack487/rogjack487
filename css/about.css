@@ -1,0 +1,41 @@
+body{
+    background-color: #F1E2C5;;
+}
+.header{
+    display: flex;
+}
+.title{
+    margin-left: 755px;
+    color: #DD601A;
+    font-size: 4em;
+    margin-top: -15px;
+    
+}
+.back{
+    margin-top: -5px;
+    margin-right: 50px;
+    
+}
+.class{
+    list-style-type: none;
+    font-size: 5em;
+    margin-left: 455px;
+    margin-top: -70px;
+    text-decoration: none;
+}
+.li{
+    font-size: 5em;
+    margin-left: 495px;
+    
+}
+.interest1{
+    font-size: 5em;
+    margin-top: -501px;
+    margin-left: 1030px;
+}
+.interest2{
+    font-size: 5em;
+    margin-left: 1070px;
+    margin-top: -70px;
+
+}

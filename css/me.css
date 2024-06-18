@@ -1,0 +1,42 @@
+
+body{background-color: #F1E2C5;
+    margin: 0 auto;
+
+}
+.ya{
+    height: 150px;
+    font-size: 3em;
+    text-align: center;
+    color: #DD601A;
+    
+    background-image: url(img/v1_40.png);
+}
+.catt{
+    width: 150px;
+    height: 150px;
+    border: 10px solid rgba(255, 255, 255, 1);
+    border-radius: 50%;
+    float: left;
+    margin-left: 40px;
+    margin-top: -120px;
+}
+.name{
+    font-size: 3em;
+    margin-top: -100px;
+    margin-left: 220px;
+}
+.day{
+    font-size: 2em;
+    margin-top: -20px;
+    margin-left: 220px;
+}
+.img{
+    display: block;
+    margin-top: 50px;
+    list-style:none;
+    font-size: 2em;
+    margin-left: 40px;
+    line-height: 150px;
+    
+    
+}

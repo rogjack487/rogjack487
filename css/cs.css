@@ -1,0 +1,33 @@
+body{
+    background-color: #F1E2C5;;
+}
+.header{
+    display: flex;
+
+}
+.title{
+    margin-left: 755px;
+    color: #DD601A;
+    font-size: 4em;
+    margin-top: -15px;
+}
+.back{
+    margin-top: -5px;
+    margin-right: 50px;
+}
+.phone{
+    font-size: 4em;
+    margin-top: 250px;
+    margin-left: -900px;
+}
+.gmail{
+    font-size: 4em;
+    margin-top: 415px;
+    margin-left: -472px;
+}
+.fb{
+    margin-top: 580px;
+    margin-left: -785px;
+   font-size: 5em;
+
+}
